@@ -31,4 +31,4 @@ Start the development server
 bash
 Copy
 Edit
-npm start
+npm run dev
